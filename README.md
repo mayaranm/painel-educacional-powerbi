@@ -41,7 +41,7 @@ Este projeto simula um cenário real de análise acadêmica e demonstra como dad
 
 ## 📸 Visual do Painel
 
-![Painel Power BI](./NOME_DA_IMAGEM.png)
+![Painel Power BI](./powerbi.png)
 
 
 ## 📎 Contato
