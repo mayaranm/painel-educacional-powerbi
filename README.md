@@ -39,6 +39,11 @@ Demonstrar habilidades em:
 
 Este projeto simula um cenário real de análise acadêmica e demonstra como dados educacionais podem ser organizados e apresentados de forma clara para gestores, diretores e times pedagógicos.
 
+## 📸 Visual do Painel
+
+![Painel Power BI](./NOME_DA_IMAGEM.png)
+
+
 ## 📎 Contato
 
 - [LinkedIn - Mayara Martins](https://www.linkedin.com/in/mayaranmartins/)
